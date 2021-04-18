@@ -1,6 +1,6 @@
 # Alarm app
 
-This is a alarm app where u can se the alarm and alarm will ring at the time you mentioned
+This is a alarm app where you can se the alarm and alarm will ring at the time you mentioned
 
 ## Features
 1.The alarm app automatically starts ringing at the time you mentioned above
